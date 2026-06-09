@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.7% | 16.0–20.1% | 15.5–20.6% | 15.2–20.9% | 14.6–21.6% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.7–18.1% | 15.3–18.3% | 15.0–18.5% | 14.5–18.9% |
+| [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 17.6% | 16.9–18.3% | 16.8–18.5% | 16.6–18.6% | 16.3–19.0% |
 | [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 18.9% | 18.2–19.7% | 18.0–19.9% | 17.8–20.1% | 17.5–20.4% |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 16.4% | 15.3–17.6% | 15.0–17.9% | 14.7–18.2% | 14.2–18.7% |
 | [2–31 March 2026](2026-03-31-Gallup.html) | Gallup <br> RÚV | 16.5% | N/A | N/A | N/A | N/A |
@@ -87,16 +88,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.5% | 100% |  |
-| 14.5–15.5% | 5% | 99.5% |  |
-| 15.5–16.5% | 14% | 95% |  |
-| 16.5–17.5% | 12% | 81% |  |
-| 17.5–18.5% | 15% | 69% |  |
-| 18.5–19.5% | 32% | 54% | Median |
-| 19.5–20.5% | 17% | 22% |  |
-| 20.5–21.5% | 5% | 5% |  |
-| 21.5–22.5% | 0.5% | 0.6% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.7% | 100% |  |
+| 14.5–15.5% | 7% | 99.3% |  |
+| 15.5–16.5% | 21% | 92% |  |
+| 16.5–17.5% | 39% | 71% | Median |
+| 17.5–18.5% | 30% | 32% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -107,7 +105,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 1 | 1 | 1 | 1 | 1 |
 | [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 1 | 1 | 1 | 1 | 1–2 |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 1 | 1 | 1 | 1 | 1–2 |
 | [2–31 March 2026](2026-03-31-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
@@ -173,8 +172,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 85% | 100% | Median |
-| 2 | 15% | 15% |  |
+| 1 | 99.3% | 100% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 
