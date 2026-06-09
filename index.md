@@ -5,10 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | V | P | F | S | B | C | D | M | Y | L | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 3–6% <br> 0 | 2–6% <br> 0 | 5–9% <br> 0 | 26–32% <br> 2–3 | 5–8% <br> 0 | 10–15% <br> 1 | 13–22% <br> 1–2 | 15–21% <br> 1–2 | N/A <br> N/A | 0% <br> 0 | 2–4% <br> 0 |
-| [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 4–6% <br> 0 | 2% <br> 0 | 5–6% <br> 0 | 27–30% <br> 2 | 5–6% <br> 0 | 10–12% <br> 0–1 | 20–23% <br> 2 | 18–20% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2% <br> 0 |
+| N/A | [Poll Average](average.html) | 4–5% <br> 0 | 2–6% <br> 0 | 4–7% <br> 0 | 26–30% <br> 2–3 | 6–8% <br> 0 | 10–14% <br> 1 | 17–24% <br> 1–2 | 15–18% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
+| [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 4–5% <br> 0 | 2% <br> 0 | 4–5% <br> 0 | 27–30% <br> 2 | 6–7% <br> 0 | 10–11% <br> 1 | 22–25% <br> 2 | 17–19% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 3–5% <br> 0 | 4–6% <br> 0 | 5–7% <br> 0 | 26–30% <br> 2–3 | 6–9% <br> 0 | 11–14% <br> 1 | 16–20% <br> 1–2 | 15–18% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 |
-| [21 January–16 February 2026](2026-02-16-Prósent.html) | Prósent <br> Morgunblaðið | 3–4% <br> 0 | 3–5% <br> 0 | 7–9% <br> 0 | 28–32% <br> 2–3 | 5–7% <br> 0 | 12–15% <br> 1 | 12–15% <br> 1 | 18–21% <br> 1–2 | N/A <br> N/A | 0–1% <br> 0 | 2–3% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
