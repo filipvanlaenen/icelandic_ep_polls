@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/icelandic_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Jun 2026 11:32:08 +0200</pubDate>
+    <pubDate>Sat, 27 Jun 2026 08:22:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Maskína for Vísir, 2–11 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/icelandic_ep_polls/2026-06-11-Maskína.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Flokkur fólksins (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Samfylkingin - jafnaðarflokkur Íslands (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands (*): 0 seats&lt;/li&gt;&lt;li&gt;Píratar (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Miðflokkurinn (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Viðreisn (RE): 1 seats&lt;/li&gt;&lt;li&gt;Sjálfstæðisflokkurinn (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn (RE): 0 seats&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_ep_polls/2026-06-11-Maskína-seats.png"
+        length="189518"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jun 2026 08:22:05 +0200</pubDate>
+      <dc:date>2026-06-27T08:22:05.221133+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Maskína for Vísir, 2–11 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_ep_polls/2026-06-11-Maskína.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_ep_polls/2026-06-11-Maskína-coalitions-seats.png"
+        length="91325"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jun 2026 08:22:05 +0200</pubDate>
+      <dc:date>2026-06-27T08:22:05.221133+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Maskína for Vísir, 2–11 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/icelandic_ep_polls/2026-06-11-Maskína.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Flokkur fólksins (S&amp;amp;D): 2.9–5.7%&lt;/li&gt;&lt;li&gt;Samfylkingin - jafnaðarflokkur Íslands (S&amp;amp;D): 22.3–28.4%&lt;/li&gt;&lt;li&gt;Sósíalistaflokkur Íslands (*): 2.7–5.4%&lt;/li&gt;&lt;li&gt;Píratar (Greens/EFA): 2.4–5.0%&lt;/li&gt;&lt;li&gt;Miðflokkurinn (ECR): 11.9–16.8%&lt;/li&gt;&lt;li&gt;Viðreisn (RE): 10.3–14.9%&lt;/li&gt;&lt;li&gt;Sjálfstæðisflokkurinn (EPP): 19.9–25.7%&lt;/li&gt;&lt;li&gt;Framsóknarflokkurinn (RE): 6.7–10.6%&lt;/li&gt;&lt;li&gt;Vinstrihreyfingin – grænt framboð (GUE/NGL): 4.0–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/icelandic_ep_polls/2026-06-11-Maskína.png"
+        length="323047"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jun 2026 08:22:05 +0200</pubDate>
+      <dc:date>2026-06-27T08:22:05.221133+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup for RÚV, 30 April–31 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_ep_polls/2026-05-31-Gallup.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Mon, 25 May 2026 14:37:29 +0200</pubDate>
       <dc:date>2026-05-25T14:37:29.462344+02:00</dc:date>
     </item>
-    <dc:date>2026-06-14T11:32:08.047012+02:00</dc:date>
+    <dc:date>2026-06-27T08:22:05.221133+02:00</dc:date>
   </channel>
 </rss>
