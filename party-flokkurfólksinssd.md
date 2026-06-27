@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.8–6.3% | 3.7–6.6% | 3.6–6.8% | 3.4–7.2% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.5–4.8% | 3.3–5.2% | 3.1–5.4% | 2.7–6.0% |
+| [2–11 June 2026](2026-06-11-Maskína.html) | Maskína <br> Vísir | 4.1% | 3.3–5.2% | 3.1–5.5% | 2.9–5.7% | 2.6–6.3% |
 | [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 4.0% | 3.7–4.4% | 3.6–4.5% | 3.5–4.6% | 3.4–4.7% |
+| [17 April–12 May 2026](2026-05-12-Maskína.html) | Maskína <br> Vísir | 4.7% | 4.2–5.3% | 4.1–5.4% | 4.0–5.6% | 3.7–5.9% |
 | [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 5.2% | 4.8–5.6% | 4.7–5.8% | 4.6–5.9% | 4.4–6.1% |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
 | [2–31 March 2026](2026-03-31-Gallup.html) | Gallup <br> RÚV | 4.6% | N/A | N/A | N/A | N/A |
@@ -19,8 +21,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2 February–1 March 2026](2026-03-01-Gallup.html) | Gallup <br> RÚV | 5.8% | N/A | N/A | N/A | N/A |
 | [1–27 February 2026](2026-02-27-Maskína.html) | Maskína <br> Vísir | 4.8% | N/A | N/A | N/A | N/A |
 | [21 January–16 February 2026](2026-02-16-Prósent.html) | Prósent <br> Morgunblaðið | 7.7% | 7.0–8.5% | 6.8–8.8% | 6.6–9.0% | 6.3–9.4% |
-| [1–31 January 2026](2026-01-31-Gallup.html) | Gallup <br> RÚV | 5.3% | N/A | N/A | N/A | N/A |
+| [9 January–1 February 2026](2026-02-01-Gallup.html) | Gallup <br> RÚV | 5.3% | N/A | N/A | N/A | N/A |
+| [9–13 January 2026](2026-01-13-Maskína.html) | Maskína | 4.3% | N/A | N/A | N/A | N/A |
+| [1–28 December 2025](2025-12-28-Gallup.html) | Gallup | 5.5% | N/A | N/A | N/A | N/A |
 | [3–30 November 2025](2025-11-30-Gallup.html) | Gallup <br> RÚV | 5.2% | N/A | N/A | N/A | N/A |
+| [1 October–2 November 2025](2025-11-02-Gallup.html) | Gallup | 5.9% | N/A | N/A | N/A | N/A |
 | [16–30 September 2025](2025-09-30-Prósent.html) | Prósent <br> Morgunblaðið | 7.6% | N/A | N/A | N/A | N/A |
 | [1–30 September 2025](2025-09-30-Gallup.html) | Gallup <br> RÚV | 6.9% | N/A | N/A | N/A | N/A |
 | [4–19 September 2025](2025-09-19-Maskína.html) | Maskína | 6.3% | N/A | N/A | N/A | N/A |
@@ -29,7 +34,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–31 July 2025](2025-07-31-Gallup.html) | Gallup <br> RÚV | 6.7% | N/A | N/A | N/A | N/A |
 | [4–23 July 2025](2025-07-23-Maskína.html) | Maskína <br> Vísir | 6.6% | N/A | N/A | N/A | N/A |
 | [2–30 June 2025](2025-06-30-Gallup.html) | Gallup <br> RÚV | 6.6% | N/A | N/A | N/A | N/A |
-| [22 June 2025](2025-06-22-Maskína.html) | Maskína | 6.6% | N/A | N/A | N/A | N/A |
+| [22 June 2025](2025-06-22-Maskína.html) | Maskína | 6.7% | N/A | N/A | N/A | N/A |
 | [1 May–1 June 2025](2025-06-01-Gallup.html) | Gallup <br> RÚV | 7.5% | N/A | N/A | N/A | N/A |
 | [22 May 2025](2025-05-22-Maskína.html) | Maskína | 7.2% | N/A | N/A | N/A | N/A |
 | [1–30 April 2025](2025-04-30-Gallup.html) | Gallup <br> RÚV | 7.4% | N/A | N/A | N/A | N/A |
@@ -76,14 +81,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 47% | 98% |  |
-| 4.5–5.5% | 15% | 51% | Median |
-| 5.5–6.5% | 30% | 36% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 10% | 99.8% |  |
+| 3.5–4.5% | 73% | 89% | Median |
+| 4.5–5.5% | 14% | 16% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -95,7 +99,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–11 June 2026](2026-06-11-Maskína.html) | Maskína <br> Vísir | 0 | 0 | 0 | 0 | 0 |
 | [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 0 | 0 | 0 | 0 | 0 |
+| [17 April–12 May 2026](2026-05-12-Maskína.html) | Maskína <br> Vísir |  |  |  |  |  |
 | [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 0 | 0 | 0 | 0 | 0 |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 0 | 0 | 0 | 0 | 0 |
 | [2–31 March 2026](2026-03-31-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
@@ -103,8 +109,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2 February–1 March 2026](2026-03-01-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
 | [1–27 February 2026](2026-02-27-Maskína.html) | Maskína <br> Vísir |  |  |  |  |  |
 | [21 January–16 February 2026](2026-02-16-Prósent.html) | Prósent <br> Morgunblaðið | 0 | 0 | 0 | 0 | 0 |
-| [1–31 January 2026](2026-01-31-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [9 January–1 February 2026](2026-02-01-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [9–13 January 2026](2026-01-13-Maskína.html) | Maskína |  |  |  |  |  |
+| [1–28 December 2025](2025-12-28-Gallup.html) | Gallup |  |  |  |  |  |
 | [3–30 November 2025](2025-11-30-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [1 October–2 November 2025](2025-11-02-Gallup.html) | Gallup |  |  |  |  |  |
 | [16–30 September 2025](2025-09-30-Prósent.html) | Prósent <br> Morgunblaðið |  |  |  |  |  |
 | [1–30 September 2025](2025-09-30-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
 | [4–19 September 2025](2025-09-19-Maskína.html) | Maskína |  |  |  |  |  |

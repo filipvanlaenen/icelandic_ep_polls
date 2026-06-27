@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 17.3–24.0% | 16.9–24.2% | 16.6–24.4% | 16.0–24.8% |
+| N/A | [Poll Average](average.html) | 23.3% | 21.5–24.4% | 20.8–24.8% | 20.3–25.2% | 19.4–26.3% |
+| [2–11 June 2026](2026-06-11-Maskína.html) | Maskína <br> Vísir | 22.7% | 20.8–24.7% | 20.3–25.2% | 19.9–25.7% | 19.0–26.7% |
 | [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 23.5% | 22.7–24.2% | 22.5–24.4% | 22.4–24.6% | 22.0–25.0% |
+| [17 April–12 May 2026](2026-05-12-Maskína.html) | Maskína <br> Vísir | 19.8% | 18.8–20.8% | 18.6–21.1% | 18.3–21.3% | 17.9–21.8% |
 | [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 21.4% | 20.6–22.2% | 20.4–22.4% | 20.2–22.6% | 19.9–23.0% |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 18.1% | 16.9–19.3% | 16.6–19.6% | 16.4–19.9% | 15.8–20.5% |
 | [2–31 March 2026](2026-03-31-Gallup.html) | Gallup <br> RÚV | 15.6% | N/A | N/A | N/A | N/A |
@@ -19,13 +21,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2 February–1 March 2026](2026-03-01-Gallup.html) | Gallup <br> RÚV | 18.1% | N/A | N/A | N/A | N/A |
 | [1–27 February 2026](2026-02-27-Maskína.html) | Maskína <br> Vísir | 16.2% | N/A | N/A | N/A | N/A |
 | [21 January–16 February 2026](2026-02-16-Prósent.html) | Prósent <br> Morgunblaðið | 13.7% | 12.7–14.7% | 12.5–15.0% | 12.2–15.3% | 11.8–15.8% |
-| [1–31 January 2026](2026-01-31-Gallup.html) | Gallup <br> RÚV | 17.1% | N/A | N/A | N/A | N/A |
+| [9 January–1 February 2026](2026-02-01-Gallup.html) | Gallup <br> RÚV | 17.1% | N/A | N/A | N/A | N/A |
+| [9–13 January 2026](2026-01-13-Maskína.html) | Maskína | 13.4% | N/A | N/A | N/A | N/A |
+| [1–28 December 2025](2025-12-28-Gallup.html) | Gallup | 16.9% | N/A | N/A | N/A | N/A |
 | [3–30 November 2025](2025-11-30-Gallup.html) | Gallup <br> RÚV | 16.5% | N/A | N/A | N/A | N/A |
+| [1 October–2 November 2025](2025-11-02-Gallup.html) | Gallup | 17.6% | N/A | N/A | N/A | N/A |
 | [16–30 September 2025](2025-09-30-Prósent.html) | Prósent <br> Morgunblaðið | 18.3% | N/A | N/A | N/A | N/A |
 | [1–30 September 2025](2025-09-30-Gallup.html) | Gallup <br> RÚV | 19.5% | N/A | N/A | N/A | N/A |
 | [4–19 September 2025](2025-09-19-Maskína.html) | Maskína | 18.6% | N/A | N/A | N/A | N/A |
 | [1–31 August 2025](2025-08-31-Gallup.html) | Gallup <br> RÚV | 19.7% | N/A | N/A | N/A | N/A |
-| [21 August 2025](2025-08-21-Maskína.html) | Maskína <br> Vísir | 18.7% | N/A | N/A | N/A | N/A |
+| [21 August 2025](2025-08-21-Maskína.html) | Maskína <br> Vísir | 18.6% | N/A | N/A | N/A | N/A |
 | [1–31 July 2025](2025-07-31-Gallup.html) | Gallup <br> RÚV | 18.7% | N/A | N/A | N/A | N/A |
 | [4–23 July 2025](2025-07-23-Maskína.html) | Maskína <br> Vísir | 18.0% | N/A | N/A | N/A | N/A |
 | [2–30 June 2025](2025-06-30-Gallup.html) | Gallup <br> RÚV | 20.7% | N/A | N/A | N/A | N/A |
@@ -89,18 +94,21 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 2% | 99.9% |  |
-| 16.5–17.5% | 12% | 98% |  |
-| 17.5–18.5% | 21% | 86% |  |
-| 18.5–19.5% | 13% | 65% |  |
-| 19.5–20.5% | 3% | 53% |  |
-| 20.5–21.5% | 0.2% | 50% | Median |
-| 21.5–22.5% | 2% | 50% |  |
-| 22.5–23.5% | 25% | 48% |  |
-| 23.5–24.5% | 21% | 23% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.6% | 99.9% |  |
+| 19.5–20.5% | 3% | 99.3% |  |
+| 20.5–21.5% | 7% | 97% |  |
+| 21.5–22.5% | 14% | 89% |  |
+| 22.5–23.5% | 38% | 75% | Median |
+| 23.5–24.5% | 30% | 37% |  |
+| 24.5–25.5% | 6% | 7% |  |
+| 25.5–26.5% | 1.3% | 2% |  |
+| 26.5–27.5% | 0.3% | 0.3% |  |
+| 27.5–28.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -111,8 +119,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| [2–11 June 2026](2026-06-11-Maskína.html) | Maskína <br> Vísir | 2 | 2 | 2 | 2 | 1–2 |
 | [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 2 | 2 | 2 | 2 | 2 |
+| [17 April–12 May 2026](2026-05-12-Maskína.html) | Maskína <br> Vísir |  |  |  |  |  |
 | [1–29 April 2026](2026-04-29-Gallup.html) | Gallup <br> RÚV | 2 | 2 | 2 | 2 | 2 |
 | [25 March–16 April 2026](2026-04-16-Maskína.html) | Maskína <br> Vísir | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–31 March 2026](2026-03-31-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
@@ -120,8 +130,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2 February–1 March 2026](2026-03-01-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
 | [1–27 February 2026](2026-02-27-Maskína.html) | Maskína <br> Vísir |  |  |  |  |  |
 | [21 January–16 February 2026](2026-02-16-Prósent.html) | Prósent <br> Morgunblaðið | 1 | 1 | 1 | 1 | 1 |
-| [1–31 January 2026](2026-01-31-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [9 January–1 February 2026](2026-02-01-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [9–13 January 2026](2026-01-13-Maskína.html) | Maskína |  |  |  |  |  |
+| [1–28 December 2025](2025-12-28-Gallup.html) | Gallup |  |  |  |  |  |
 | [3–30 November 2025](2025-11-30-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
+| [1 October–2 November 2025](2025-11-02-Gallup.html) | Gallup |  |  |  |  |  |
 | [16–30 September 2025](2025-09-30-Prósent.html) | Prósent <br> Morgunblaðið |  |  |  |  |  |
 | [1–30 September 2025](2025-09-30-Gallup.html) | Gallup <br> RÚV |  |  |  |  |  |
 | [4–19 September 2025](2025-09-19-Maskína.html) | Maskína |  |  |  |  |  |
@@ -178,8 +191,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 31% | 100% |  |
-| 2 | 69% | 69% | Median |
+| 1 | 0.7% | 100% |  |
+| 2 | 99.3% | 99.3% | Median |
 | 3 | 0% | 0% |  |
 
 
