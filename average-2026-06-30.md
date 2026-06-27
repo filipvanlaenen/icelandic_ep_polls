@@ -330,7 +330,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 99.7% | 99.9% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Framsóknarflokkurinn (RE)
@@ -341,8 +341,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0.9% | 0.9% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 ### Viðreisn (RE)
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 99.3% | 99.3% | Median |
+| 1 | 1.0% | 100% |  |
+| 2 | 99.0% | 99.0% | Median |
 | 3 | 0% | 0% |  |
 
 ### Miðflokkurinn (ECR)
@@ -429,7 +429,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 99.7% | 99.9% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Sjálfstæðisflokkurinn (EPP)
@@ -439,8 +439,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 99.3% | 99.3% | Median |
+| 1 | 1.0% | 100% |  |
+| 2 | 99.0% | 99.0% | Median |
 | 3 | 0% | 0% |  |
 
 ### Framsóknarflokkurinn (RE) – Viðreisn (RE)
@@ -450,8 +450,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
-| 1 | 99.1% | 99.8% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 98.8% | 99.8% | Median |
+| 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 ### Miðflokkurinn (ECR)
@@ -491,6 +491,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 1.77%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.98%
