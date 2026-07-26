@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.6–5.1% | 3.3–5.3% | 3.1–5.5% | 2.7–6.0% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.4–6.6% | 4.2–7.0% | 4.1–7.3% | 3.9–7.9% |
+| [26 June–8 July 2026](2026-07-08-Maskína.html) | Maskína | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.1% |
 | [1–30 June 2026](2026-06-30-Gallup.html) | Gallup <br> RÚV | 4.6% | 4.2–5.0% | 4.1–5.1% | 4.0–5.2% | 3.9–5.4% |
 | [2–11 June 2026](2026-06-11-Maskína.html) | Maskína <br> Vísir | 4.1% | 3.3–5.2% | 3.1–5.5% | 2.9–5.7% | 2.6–6.3% |
 | [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 4.0% | 3.7–4.4% | 3.6–4.5% | 3.5–4.6% | 3.4–4.7% |
@@ -51,7 +52,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [23–29 November 2024](2024-11-29-Gallup.html) | Gallup | 12.6% | N/A | N/A | N/A | N/A |
 | [25–28 November 2024](2024-11-28-Prósent.html) | Prósent | 11.2% | N/A | N/A | N/A | N/A |
 | [22–28 November 2024](2024-11-28-Maskína.html) | Maskína | 10.8% | N/A | N/A | N/A | N/A |
-| [15–21 November 2024](2024-11-21-Prósent.html) | Prósent | 12.4% | N/A | N/A | N/A | N/A |
+| [15–21 November 2024](2024-11-21-Prósent.html) | Prósent | 12.6% | N/A | N/A | N/A | N/A |
 | [15–21 November 2024](2024-11-21-Gallup.html) | Gallup | 13.1% | N/A | N/A | N/A | N/A |
 | [15–20 November 2024](2024-11-20-Maskína.html) | Maskína | 8.8% | N/A | N/A | N/A | N/A |
 | [8–14 November 2024](2024-11-14-Prósent.html) | Prósent | 10.2% | N/A | N/A | N/A | N/A |
@@ -82,13 +83,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 9% | 99.8% |  |
-| 3.5–4.5% | 48% | 91% | Median |
-| 4.5–5.5% | 41% | 43% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 23% | 100% |  |
+| 4.5–5.5% | 41% | 77% | Median |
+| 5.5–6.5% | 24% | 36% |  |
+| 6.5–7.5% | 10% | 11% |  |
+| 7.5–8.5% | 1.3% | 1.4% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,6 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26 June–8 July 2026](2026-07-08-Maskína.html) | Maskína | 0 | 0 | 0 | 0 | 0 |
 | [1–30 June 2026](2026-06-30-Gallup.html) | Gallup <br> RÚV | 0 | 0 | 0 | 0 | 0 |
 | [2–11 June 2026](2026-06-11-Maskína.html) | Maskína <br> Vísir | 0 | 0 | 0 | 0 | 0 |
 | [30 April–31 May 2026](2026-05-31-Gallup.html) | Gallup <br> RÚV | 0 | 0 | 0 | 0 | 0 |
