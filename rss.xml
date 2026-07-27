@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/icelandic_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 26 Jul 2026 20:12:47 +0200</pubDate>
+    <pubDate>Mon, 27 Jul 2026 14:07:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Maskína, 26 June–8 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/icelandic_ep_polls/2026-07-08-Maskína.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_ep_polls/2026-07-08-Maskína-seats.png"
         length="189072"
         type="image/png"/>
-      <pubDate>Sun, 26 Jul 2026 20:12:47 +0200</pubDate>
-      <dc:date>2026-07-26T20:12:47.641053+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 14:07:21 +0200</pubDate>
+      <dc:date>2026-07-27T14:07:21.469376+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Maskína, 26 June–8 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_ep_polls/2026-07-08-Maskína-coalitions-seats.png"
         length="91048"
         type="image/png"/>
-      <pubDate>Sun, 26 Jul 2026 20:12:47 +0200</pubDate>
-      <dc:date>2026-07-26T20:12:47.641053+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 14:07:21 +0200</pubDate>
+      <dc:date>2026-07-27T14:07:21.469376+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Maskína, 26 June–8 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/icelandic_ep_polls/2026-07-08-Maskína.png"
         length="316719"
         type="image/png"/>
-      <pubDate>Sun, 26 Jul 2026 20:12:47 +0200</pubDate>
-      <dc:date>2026-07-26T20:12:47.641053+02:00</dc:date>
+      <pubDate>Mon, 27 Jul 2026 14:07:21 +0200</pubDate>
+      <dc:date>2026-07-27T14:07:21.469376+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup for RÚV, 1–30 June 2026 – Seat Projections for the Parties</title>
@@ -219,6 +219,6 @@
       <pubDate>Mon, 25 May 2026 14:37:29 +0200</pubDate>
       <dc:date>2026-05-25T14:37:29.462344+02:00</dc:date>
     </item>
-    <dc:date>2026-07-26T20:12:47.641053+02:00</dc:date>
+    <dc:date>2026-07-27T14:07:21.469376+02:00</dc:date>
   </channel>
 </rss>
