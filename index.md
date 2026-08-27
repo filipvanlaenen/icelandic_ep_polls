@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | V | P | F | S | B | C | D | M | Y | L | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 4–6% <br> 0 | 2–4% <br> 0 | 4–7% <br> 0 | 22–27% <br> 2 | 5–8% <br> 0 | 11–14% <br> 1 | 23–27% <br> 2 | 12–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 |
-| [26 June–8 July 2026](2026-07-08-Maskína.html) | Maskína | 4–6% <br> 0 | 2–4% <br> 0 | 5–8% <br> 0 | 22–27% <br> 2 | 5–8% <br> 0 | 11–15% <br> 1 | 22–28% <br> 2 | 11–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 |
-| [1–30 June 2026](2026-06-30-Gallup.html) | Gallup <br> RÚV | 4–6% <br> 0 | 2–3% <br> 0 | 4–5% <br> 0 | 25–27% <br> 2 | 5–6% <br> 0 | 11–12% <br> 1 | 24–26% <br> 2 | 14–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–5% <br> 0 |
+| N/A | [Poll Average](average.html) | 4–5% <br> 0 | 2–4% <br> 0 | 4–6% <br> 0 | 25–29% <br> 2 | 5–9% <br> 0 | 10–12% <br> 1 | 24–27% <br> 2 | 12–15% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
+| [22 July–11 August 2026](2026-08-11-Maskína.html) | Maskína <br> Vísir | 4–5% <br> 0 | 3–4% <br> 0 | 4–6% <br> 0 | 25–28% <br> 2 | 7–9% <br> 0 | 10–13% <br> 1 | 24–27% <br> 2 | 12–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 |
+| [1 July–3 August 2026](2026-08-03-Gallup.html) | Gallup <br> RÚV | 3–4% <br> 0 | 2–3% <br> 0 | 5–6% <br> 0 | 27–29% <br> 2 | 5–6% <br> 0 | 11–12% <br> 1 | 24–27% <br> 2 | 14–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
