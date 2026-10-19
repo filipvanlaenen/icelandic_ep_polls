@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | V | P | F | S | B | C | D | M | Y | L | J |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [1–28 September 2026](2026-09-28-Gallup.html) | Gallup <br> RÚV | 3–4% <br> 0 | 2–4% <br> 0 | 3–5% <br> 0 | 29–32% <br> 2–3 | 5–7% <br> 0 | 10–12% <br> 0–1 | 23–26% <br> 2 | 14–16% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2% <br> 0 |
 | [21 August–14 September 2026](2026-09-14-Maskína.html) | Maskína <br> Vísir | 4–5% <br> 0 | 3–4% <br> 0 | 4–5% <br> 0 | 26–29% <br> 2 | 7–8% <br> 0 | 11–13% <br> 1 | 24–26% <br> 2 | 12–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 |
 | [4–31 August 2026](2026-08-31-Gallup.html) | Gallup <br> RÚV | 3–4% <br> 0 | 2% <br> 0 | 4–5% <br> 0 | 28–31% <br> 2–3 | 5–6% <br> 0 | 9–11% <br> 0–1 | 26–28% <br> 2 | 15–17% <br> 1 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 |
 | [22 July–11 August 2026](2026-08-11-Maskína.html) | Maskína <br> Vísir | 4–5% <br> 0 | 3–4% <br> 0 | 4–6% <br> 0 | 25–28% <br> 2 | 7–9% <br> 0 | 10–13% <br> 1 | 24–27% <br> 2 | 12–14% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 |
