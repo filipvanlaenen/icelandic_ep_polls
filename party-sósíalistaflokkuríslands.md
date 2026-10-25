@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.2% | 1.7–3.3% | 1.7–3.4% | 1.5–3.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.8–4.5% | 1.7–4.7% | 1.7–4.9% | 1.5–5.3% |
+| [18 September–7 October 2026](2026-10-07-Maskína.html) | Maskína <br> Vísir | 4.1% | 3.5–4.7% | 3.4–4.9% | 3.2–5.1% | 3.0–5.4% |
 | [1–28 September 2026](2026-09-28-Gallup.html) | Gallup <br> RÚV | 2.0% | 1.7–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% |
 | [21 August–14 September 2026](2026-09-14-Maskína.html) | Maskína <br> Vísir | 3.0% | 2.7–3.4% | 2.6–3.4% | 2.5–3.5% | 2.4–3.7% |
 | [4–31 August 2026](2026-08-31-Gallup.html) | Gallup <br> RÚV | 2.4% | 2.1–2.7% | 2.1–2.8% | 2.0–2.8% | 1.9–3.0% |
@@ -88,10 +89,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 50% | 99.5% |  |
-| 2.5–3.5% | 48% | 49% | Median |
-| 3.5–4.5% | 1.0% | 1.0% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 1.5–2.5% | 49% | 99.5% |  |
+| 2.5–3.5% | 6% | 51% | Median |
+| 3.5–4.5% | 36% | 45% |  |
+| 4.5–5.5% | 9% | 9% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,6 +106,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18 September–7 October 2026](2026-10-07-Maskína.html) | Maskína <br> Vísir | 0 | 0 | 0 | 0 | 0 |
 | [1–28 September 2026](2026-09-28-Gallup.html) | Gallup <br> RÚV | 0 | 0 | 0 | 0 | 0 |
 | [21 August–14 September 2026](2026-09-14-Maskína.html) | Maskína <br> Vísir | 0 | 0 | 0 | 0 | 0 |
 | [4–31 August 2026](2026-08-31-Gallup.html) | Gallup <br> RÚV | 0 | 0 | 0 | 0 | 0 |
